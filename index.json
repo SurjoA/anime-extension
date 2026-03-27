@@ -5,10 +5,12 @@
     "version": "1.0.0",
     "type": "torrent",
     "accuracy": "medium",
+    "ratio": 0,
     "media": "dub",
     "languages": ["US"],
-    "url": "aHR0cHM6Ly9ueWFhLnNp",
+    "url": "aHR0cHM6Ly9leGFtcGxlLmNvbQ==",
     "icon": "https://nyaa.si/static/favicon.png",
+    "update": "https://raw.githubusercontent.com/SurjoA/anime-extension/main/index.json",
     "code": "https://cdn.jsdelivr.net/gh/SurjoA/anime-extension@main/simple-dub.js"
   }
 ]

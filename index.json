@@ -10,7 +10,7 @@
     "languages": ["US"],
     "url": "aHR0cHM6Ly9ueWFhLnNp",
     "icon": "https://nyaa.si/static/favicon.png",
-    "update": "TEMP",
-    "code": "TEMP"
+    "update": "https://raw.githubusercontent.com/SurjoA/anime-extension/bc0adab5c7359e189a49d73338e7b830231cfafd/anime-dub.js",
+    "code": "https://raw.githubusercontent.com/SurjoA/anime-extension/bc0adab5c7359e189a49d73338e7b830231cfafd/index.json"
   }
 ]

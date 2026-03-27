@@ -1,3 +1,4 @@
+// @grant fetch
 export default {
   id: "anime-dub-multi",
   name: "Anime Dub Multi Source",

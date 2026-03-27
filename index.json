@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Anime Dub Multi Source",
+    "id": "anime-dub-multi",
+    "version": "2.0.0",
+    "type": "torrent",
+    "accuracy": "high",
+    "ratio": 0,
+    "media": "dub",
+    "languages": ["US"],
+    "url": "aHR0cHM6Ly9ueWFhLnNp",
+    "icon": "https://nyaa.si/static/favicon.png",
+    "update": "TEMP",
+    "code": "TEMP"
+  }
+]

@@ -9,7 +9,7 @@
     "media": "dub",
     "languages": ["US"],
     "icon": "https://nyaa.si/static/favicon.png",
-    "update": "https://your-link/index.json",
-    "code": "https://github.com/SurjoA/anime-extension/blob/main/my-dub.js"
+    "update": "https://raw.githubusercontent.com/SurjoA/anime-extension/main/index.json",
+    "code": "https://cdn.jsdelivr.net/gh/SurjoA/anime-extension@main/my-dub.js"
   }
 ]

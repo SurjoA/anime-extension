@@ -10,6 +10,6 @@
     "languages": ["US"],
     "icon": "https://nyaa.si/static/favicon.png",
     "update": "https://your-link/index.json",
-    "code": "https://cdn.jsdelivr.net/gh/YOUR_USERNAME/REPO@main/my-dub.js"
+    "code": "https://github.com/SurjoA/anime-extension/blob/main/my-dub.js"
   }
 ]
